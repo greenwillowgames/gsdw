@@ -4,7 +4,7 @@ email: contact@greenwillowgames.com
 description: > # this means to ignore newlines until "baseurl:"
   Enter the world of a woman grappling to explain her mother's disappearance.
   Search to reveal the truth - or, at least, a version of it.
-baseurl: "gsdw" # the subpath of your site, e.g. /blog/
+baseurl: "/gsdw" # the subpath of your site, e.g. /blog/
 url: "http://www.greenwillowgames.com"
 twitter_username: GSkiesDWaters
 # github_username:  jekyll
