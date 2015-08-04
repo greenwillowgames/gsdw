@@ -1,0 +1,52 @@
+# Site settings
+title: "Gray Skies, Dark Waters"
+email: contact@greenwillowgames.com
+description: > # this means to ignore newlines until "baseurl:"
+  Enter the world of a woman grappling to explain her mother's disappearance.
+  Search to reveal the truth - or, at least, a version of it.
+baseurl: "gsdw" # the subpath of your site, e.g. /blog/
+url: "http://www.greenwillowgames.com"
+twitter_username: GSkiesDWaters
+# github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+
+# pretty urls
+permalink: pretty
+
+# team
+team:
+  - name: Elizabeth Ballou
+    title: Creative Director
+    pic: elizabeth.jpg
+  - name: Adam Campbell
+    title: Producer and Programmer
+    pic: adam.jpg
+  - name: Wendi Chen
+    title: Art Director
+    pic: wendi.jpg
+  - name: Joseph Schefer
+    title: Composer and Sound Designer
+    pic: joseph.jpg
+  - name: Anne Lantz
+    title: Animator and Rigger
+    pic: anne.jpg
+  - name: David Reinhold
+    title: 3D Modeler
+    pic: david.jpg
+  - name: Chad Vickers
+    title: Assistant Producer
+    pic: chad.jpg
+  - name: Atthar Mirza
+    title: Filmmaker and Visual Designer
+    pic: atthar.png
+  - name: Andy Barron
+    title: Programmer
+    pic: andy.jpg
+  - name: Ben Bryant
+    title: 2D Artist
+    pic: ben.jpg
+  - name: Acacia Dai
+    title: 2D Artist
+    pic: acacia.jpg

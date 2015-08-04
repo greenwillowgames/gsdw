@@ -1,0 +1,32 @@
+body {
+  background-color: #f8f8f8;
+}
+
+.navbar {
+  margin-bottom: 0;
+}
+
+.content {
+  background-color: white;
+}
+
+.banner {
+  background: url("/gsdw/img/cover.jpg");
+  background-size: cover;
+  background-position: center right;
+  height: 1000px;
+  /*margin-top: -20px;*/
+}
+
+.team-member {
+  min-height: 35em;
+  margin-bottom: 2em;
+}
+
+.headshot {
+  height: 30em;
+  background-size: cover;
+  background-position: center center;
+  /*border-radius: 50%;*/
+  border: 2px solid black;
+}
