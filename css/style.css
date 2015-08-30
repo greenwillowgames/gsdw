@@ -14,12 +14,20 @@ body {
 }
 
 .banner {
-  background: url("{{site.baseurl}}/img/cover.jpg");
-  background-size: cover;
-  background-position: center right;
-  height: 1000px;
-  /*margin-top: -20px;*/
+  max-width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
 }
+
+/*.banner {
+  background: url("{{site.baseurl}}/img/cover.jpg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-color: #222;
+  height: 500px;
+}*/
 
 .team-member {
   min-height: 35em;
