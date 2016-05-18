@@ -38,12 +38,12 @@ team:
   - name: Atthar Mirza
     title: Filmmaker and Visual Designer
     pic: atthar.png
-  - name: Andy Barron
-    title: Programmer
-    pic: andy.jpg
-  - name: Ben Bryant
-    title: 2D Artist
-    pic: ben.jpg
   - name: Acacia Dai
     title: 2D Artist
     pic: acacia.jpg
+  - name: Ben Bryant
+    title: 2D Artist
+    pic: ben.jpg
+  - name: Andy Barron
+    title: Programmer
+    pic: andy.jpg
