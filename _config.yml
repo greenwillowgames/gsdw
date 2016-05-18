@@ -35,12 +35,18 @@ team:
   - name: Chad Vickers
     title: Assistant Producer
     pic: chad.jpg
-  - name: Atthar Mirza
-    title: Filmmaker and Visual Designer
-    pic: atthar.png
   - name: Acacia Dai
     title: 2D Artist
     pic: acacia.jpg
+  - name: Annie Vu
+    title: 2D Artist
+    pic: annie.png
+  - name: Shannon Spence
+    title: 2D Artist
+    pic: shannon.png
+  - name: Atthar Mirza
+    title: Filmmaker and Visual Designer
+    pic: atthar.png
   - name: Ben Bryant
     title: 2D Artist
     pic: ben.jpg
